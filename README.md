@@ -4,4 +4,5 @@ Train Go is a web site for a Train Reservation System. This is my first group pr
 [Snapshot]:
 
 
-![1 Train Go](https://github.com/avishkaniroshana/Train-Go/assets/113366097/92fb94d0-ce3e-42c8-a65f-7111428e188d)
+
+![Train-go-image](https://github.com/avishkaniroshana/Train-Go/assets/113366097/4ad326c9-b1a4-48db-aba3-40a5859a8c0d)
